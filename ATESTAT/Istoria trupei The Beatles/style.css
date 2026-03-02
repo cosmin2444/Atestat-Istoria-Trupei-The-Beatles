@@ -1,0 +1,36 @@
+html {background:url(images/background4.jpg) fixed top center repeat;}
+body {margin:0; font-size:12px; line-height:20px; font-family:Arial, Helvetica, sans-serif; color:#ffffff;}
+a {color:#EE4400; text-decoration:none;}
+a:hover {text-decoration:underline;}
+
+#container {width:1000px; margin:0 auto;}
+p {text-align:justify;}
+#logo {font-size:36px; color:#000; font-family:"Tahoma", Arial, "Geneva", sans-serif; padding:60px 100px 60px 140px;}
+#logo a {color:#ffffff; text-decoration:none; text-shadow: 0 0 0.2em rgb(86, 96, 86), 0 0 0.2em rgb(86, 96, 86), 0 0 0.2em rgb(86, 96, 86);}
+#menu {height:40px; text-align:center;}
+#menu a {color:#ffffff; font-size:20px; font-weight:bold; text-decoration:none; margin:0 8px; text-shadow: 0 0 0.2em rgb(86, 95, 86), 0 0 0.2em rgb(86, 95, 86), 0 0 0.2em rgb(86, 95, 86); }
+#menu a:hover {color:rgba(225, 255, 0, 0.856); text-shadow: 0 0 0.2em rgb(64, 62, 62), 0 0 0.2em rgb(61, 58, 58), 0 0 0.2em rgb(57, 54, 54);}
+
+#main {margin:0 110px; float:left; background:rgb(86, 96, 86); min-height:400px; display:inline; padding-bottom:30px;}
+#text {margin:20px 220px 0 40px; font-size:16px;}
+#text ul {padding:0; margin:10px 0 10px 40px;}
+#text li {list-style:none; padding-left:15px; background:url(images/li.gif) no-repeat 0px 8px;}
+h1 {margin:20px 0 0 0; text-transform:uppercase; font-family:Arial, Helvetica, sans-serif; font-size:22px; font-weight:normal;}
+#text p {margin:10px 0;}
+#sidebar {float:right; padding:20px 30px 0 30px; width:170px;}
+#sidebar h2 {font-family:Arial, Helvetica, sans-serif; margin:0 0 20px 0; text-transform:uppercase; font-size:18px; font-weight:normal;}
+#sidebar ul {margin:0; padding:0;}
+#sidebar li {list-style:none; border-bottom:1px solid #ffffff; padding:3px 2px;}
+#sidebar li:hover {background-color:rgba(106, 117, 106, 0.949);}
+#sidebar a {
+	text-decoration:none;
+	color:rgb(255, 255, 255); font-weight:bold; font-size:16px;
+}
+
+#footer {padding:0 110px; height:169px; clear:both; }
+#menu_footer {color:#7A2200; font-size:11px; padding:40px 0 0 30px;}
+#menu_footer a {color:#FFFFFF;}
+#left_footer {float:left; padding:60px 0 0 20px; font-size:12px; color:#FFFFFF;}
+#left_footer a {color:#FFFFFF;}
+#right_footer {float:right;	padding:60px 20px 0 0; font-size:12px; text-align:right; color:#FFFFFF;}
+#right_footer a {color:#FFFFFF;}
